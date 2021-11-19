@@ -5,7 +5,7 @@
  - I've been learning more about JavaScript, TypeScript and React :rocket::electron:
  
 
-| <a href="https://github.com/gabrielcvo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielcvo&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gabrielcvo/github-readme-stats"><img width="2500em%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcvo&layout=compact&theme=dracula&hide_border=true" /></a> |
+| <a href="https://github.com/gabrielcvo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielcvo&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gabrielcvo/github-readme-stats"><img width="250em%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcvo&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
  
  
