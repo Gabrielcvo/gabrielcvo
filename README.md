@@ -1,9 +1,4 @@
-### Hi there 👋
-
-## I'm Gabriel Santiago
- - I live in Brazil, Minas Gerais :small_red_triangle:
- - I've been learning more about JavaScript, TypeScript and React :rocket::electron:
- - 
+## Oiii eu sou o Gabriel Santiago, entusiasta da tecnologia. 
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcvo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
