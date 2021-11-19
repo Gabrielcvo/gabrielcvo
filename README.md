@@ -1,4 +1,9 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+### Hi there 👋
+
+## I'm Gabriel Santiago
+ - I live in Brazil, Minas Gerais :small_red_triangle:
+ - I've been learning more about JavaScript, TypeScript and React :rocket::electron:
+ - 
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
